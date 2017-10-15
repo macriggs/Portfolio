@@ -1,0 +1,19 @@
+html{
+    background-image: linear-gradient(270deg, rgb(244,164,96) 0%, rgb(160,82,45) 100%);
+}
+
+body{
+    
+}
+
+nav ul{
+    
+}
+
+#content{
+    background: rgb(255,255,255);
+    padding: 15px;
+    margin: 60px;
+    max-width: 1000px;
+	position: relative;
+}

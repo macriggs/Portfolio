@@ -1,8 +1,22 @@
 <!DOCTYPE HTML>
 <html>
     <?php include("head.php") ?>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" type="text/css" href="style/style.css">
+        <script src="js/animations.js"></script>
+        <title>Mac Riggs</title>
+    </head>
     <body>
         <?php include("navBar.php")?>
+        <nav>
+            <ul id="mainnav">
+                <li><a href="index.html">About Me</a></li> | 
+                <li><a href="experience.html">Experience</a></li> | 
+                <li><a href="projects.html">Projects</a></li> | 
+                <li><a href="thoughts.html">My Thoughts</a></li>
+            </ul>
+        </nav>
         <div id="splashscreen">
             <h1>Mac Riggs</h1>
             <h3>Creator, IT Professional</h3>
